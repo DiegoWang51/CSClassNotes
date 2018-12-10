@@ -14,6 +14,9 @@ e.g. array
 
 * Linked Lists
 * Trees
-* Stacks
+
+### Stacks
+Used when jump out to some tasks, and in the end returns to the original task.
+
 * Queues
 * Dictionary
