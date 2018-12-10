@@ -18,5 +18,7 @@ e.g. array
 ### Stacks
 Used when jump out to some tasks, and in the end returns to the original task.
 
+A process that something can interfere another.
+
 * Queues
 * Dictionary
